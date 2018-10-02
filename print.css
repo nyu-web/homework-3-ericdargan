@@ -1,0 +1,14 @@
+/**
+ * Print stylesheet for NYT Copy Website
+* @version         1.0
+*/
+
+@media print {
+    nav {
+        display: none;
+    }
+
+    * {
+        font-family: "Times New Roman";
+    }
+}

@@ -1,0 +1,5 @@
+I chose to use a flex box for the navigation bar because it made it much easier to get the spacing the way I wanted to.
+
+It also made sense to me to use a flex box to manage the following five article boxes, because on iPad's and smaller devices I can switch the flex direction easily to become a column instead of a row. It was a very easy switch to do using flex box.
+
+For the remaining part of the website, I laid it out on a grid because visually to me it looked like a grid, more so than the navigation bar and the previous articles. Using a grid worked out very well for me here, and I was able to do everything that I wanted to to.
